@@ -1,0 +1,6 @@
+twscrape
+requests
+beautifulsoup4
+colorama
+python-dotenv
+rich
